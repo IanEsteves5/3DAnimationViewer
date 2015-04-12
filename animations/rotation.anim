@@ -1,0 +1,10 @@
+frame 0
+rotAngle 0
+frame 20
+rotAngle -90
+frame 40
+rotAngle 0
+frame 60
+rotAngle 90
+frame 80
+rotAngle 0

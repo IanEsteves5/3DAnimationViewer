@@ -1,0 +1,18 @@
+Anim File Specification
+By Ian Esteves do Nascimento, 2013
+
+An anim file contains keyframes for an animation.
+
+Each line begins with an id of what that line contains:
+- frame :    New keyframe.
+             Followed by an integer value.
+- pos :      Position of the object on that frame.
+             Followed by three real values.
+- rotAxis :  Axis in which the object will rotate around.
+             Followed by three real values.
+- rotAngle : Angle of rotation, in degrees.
+             Followed by one real value.
+- scale :    The model will be stretched this amount in all
+             directions. A value of 1.0 means the model
+             will appear the same size.
+             Followed by one real value.

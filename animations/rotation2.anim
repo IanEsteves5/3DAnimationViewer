@@ -1,0 +1,15 @@
+frame 0
+rotAngle 45
+rotAxis 1 0 0
+
+frame 20
+rotAxis 0 1 0
+
+frame 40
+rotAxis 1 0 0
+
+frame 60
+rotAxis 0 -1 0
+
+frame 80
+rotAxis 1 0 0

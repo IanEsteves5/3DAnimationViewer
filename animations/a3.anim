@@ -1,0 +1,74 @@
+frame 0
+pos 1.5 0.0 -2.4
+
+frame 5
+pos 1.5 1.5 -2.2
+
+frame 10
+pos 0.0 1.5 -2.0
+
+frame 15
+pos -1.5 1.5 -1.8
+
+frame 20
+pos -1.5 0.0 -1.6
+
+frame 25
+pos -1.5 -1.5 -1.4
+
+frame 30
+pos 0.0 -1.5 -1.2
+
+frame 35
+pos 1.5 -1.5 -1.0
+
+frame 40
+pos 1.5 0.0 -0.8
+
+frame 45
+pos 1.5 1.5 -0.6
+
+frame 50
+pos 0.0 1.5 -0.4
+
+frame 55
+pos -1.5 1.5 -0.2
+
+frame 60
+pos -1.5 0.0 0.0
+
+frame 65
+pos -1.5 -1.5 0.2
+
+frame 70
+pos 0.0 -1.5 0.4
+
+frame 75
+pos 1.5 -1.5 0.6
+
+frame 80
+pos 1.5 0.0 0.8
+
+frame 85
+pos 1.5 1.5 1.0
+
+frame 90
+pos 0.0 1.5 1.2
+
+frame 95
+pos -1.5 1.5 1.4
+
+frame 100
+pos -1.5 0.0 1.6
+
+frame 105
+pos -1.5 -1.5 1.8
+
+frame 110
+pos 0.0 -1.5 2.0
+
+frame 115
+pos 1.5 -1.5 2.2
+
+frame 120
+pos 1.5 0.0 2.4
